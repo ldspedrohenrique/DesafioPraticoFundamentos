@@ -1,0 +1,14 @@
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/bin/Debug/net8.0/ExercicioSaudacao
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/bin/Debug/net8.0/ExercicioSaudacao.deps.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/bin/Debug/net8.0/ExercicioSaudacao.runtimeconfig.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/bin/Debug/net8.0/ExercicioSaudacao.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/bin/Debug/net8.0/ExercicioSaudacao.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.AssemblyInfoInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.AssemblyInfo.cs
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.csproj.CoreCompileInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/refint/ExercicioSaudacao.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ExercicioSaudacao.genruntimeconfig.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioSaudacao/obj/Debug/net8.0/ref/ExercicioSaudacao.dll

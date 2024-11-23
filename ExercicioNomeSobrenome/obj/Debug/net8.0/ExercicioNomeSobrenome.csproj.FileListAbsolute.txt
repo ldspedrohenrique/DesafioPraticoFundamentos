@@ -1,0 +1,14 @@
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/bin/Debug/net8.0/ExercicioNomeSobrenome
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/bin/Debug/net8.0/ExercicioNomeSobrenome.deps.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/bin/Debug/net8.0/ExercicioNomeSobrenome.runtimeconfig.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/bin/Debug/net8.0/ExercicioNomeSobrenome.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/bin/Debug/net8.0/ExercicioNomeSobrenome.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.AssemblyInfoInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.AssemblyInfo.cs
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.csproj.CoreCompileInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/refint/ExercicioNomeSobrenome.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ExercicioNomeSobrenome.genruntimeconfig.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioNomeSobrenome/obj/Debug/net8.0/ref/ExercicioNomeSobrenome.dll

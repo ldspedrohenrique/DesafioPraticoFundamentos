@@ -1,0 +1,14 @@
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/bin/Debug/net8.0/ExercicioExibirData
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/bin/Debug/net8.0/ExercicioExibirData.deps.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/bin/Debug/net8.0/ExercicioExibirData.runtimeconfig.json
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/bin/Debug/net8.0/ExercicioExibirData.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/bin/Debug/net8.0/ExercicioExibirData.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.AssemblyInfoInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.AssemblyInfo.cs
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.csproj.CoreCompileInputs.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/refint/ExercicioExibirData.dll
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.pdb
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ExercicioExibirData.genruntimeconfig.cache
+/Users/ldspedrohenrique/RiderProjects/DesafioPraticoFundamentos/ExercicioExibirData/obj/Debug/net8.0/ref/ExercicioExibirData.dll
